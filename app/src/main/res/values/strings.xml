@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="user_name">Sumonta Saha Mridul</string>
+    <string name="user_name2">Promi Mojumder</string>
+    <string name="buttonName">Show Information</string>
+    <string name="buttonName1">Clear</string>
+    <string name="bio_data">● Currently, I am studying Software Engineering at SUST \n
+● Besides I am focusing on Competitive Programming and developing the problem-solving skill \n
+● Proficient with C/C++ and Java \n
+● Familiar with Python, Flutter and Designing \n
+● Currently Focusing on App Development and CP \n
+● Also Familiar with Photo and Video Editing \n
+● Experienced in Designing \n
+● I have got GPA of 5.00 in JSC, SSC, and HSC (From Notre Dame College)</string>
+</resources>
