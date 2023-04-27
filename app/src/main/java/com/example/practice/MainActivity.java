@@ -23,24 +23,24 @@ public class MainActivity extends AppCompatActivity {
 //        nameText = (TextView) findViewById(R.id.nameTextView) ;
 //        nameText.setText(R.string.user_name2);
 
-        infoText = findViewById(R.id.bioTextView);
-
-        login = findViewById(R.id.loginButton);
-        login.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                infoText.setText(R.string.bio_data);
-            }
-        });
-
-        exit = (Button) findViewById(R.id.exitButton);
-        exit.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                infoText.setText("");
-
-            }
-        });
+//        infoText = findViewById(R.id.bioTextView);
+//
+//        login = findViewById(R.id.loginButton);
+//        login.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                infoText.setText(R.string.bio_data);
+//            }
+//        });
+//
+//        exit = (Button) findViewById(R.id.exitButton);
+//        exit.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View view) {
+//                infoText.setText("");
+//
+//            }
+//        });
 
 
     }
