@@ -20,8 +20,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        nameText = (TextView) findViewById(R.id.nameTextView) ;
-//        nameText.setText(R.string.user_name2);
+        nameText = (TextView) findViewById(R.id.nameTextView) ;
+        nameText.setText(R.string.user_name2);
 
 //        infoText = findViewById(R.id.bioTextView);
 //
