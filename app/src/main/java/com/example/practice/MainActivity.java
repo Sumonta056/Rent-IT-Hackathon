@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 //            }
 //        });
 //
+//        cpde wprlgad
 //        exit = (Button) findViewById(R.id.exitButton);
 //        exit.setOnClickListener(new View.OnClickListener() {
 //            @Override
