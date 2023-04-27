@@ -16,77 +16,83 @@
 <!--        android:layout_margin="1dp"-->
 <!--        android:src="@drawable/login" />-->
 
-    <TextView
-        android:id="@+id/nameTextView"
-        android:layout_width="396dp"
+<!--    <TextView-->
+<!--        android:id="@+id/nameTextView"-->
+<!--        android:layout_width="396dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:background="#E91E63"-->
+<!--        android:padding="1dp"-->
+<!--        android:paddingBottom="10dp"-->
+<!--        android:text="@string/user_name"-->
+<!--        android:textAlignment="center"-->
+<!--        android:textAllCaps="true"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textIsSelectable="true"-->
+<!--        android:textSize="35sp"-->
+<!--        android:textStyle="bold"-->
+
+
+<!--        />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/loginButton"-->
+<!--        android:layout_width="284dp"-->
+<!--        android:layout_height="50dp"-->
+<!--        android:textAllCaps="false"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:background="#121F6C"-->
+<!--        android:backgroundTint="#0C1A6A"-->
+<!--        android:drawableEnd="@drawable/login"-->
+<!--        android:text="@string/buttonName"-->
+<!--        android:textAlignment="gravity"-->
+<!--        android:textSize="17sp"-->
+
+<!--        android:textStyle="italic" />-->
+
+
+<!--    <ScrollView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="497dp"-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:background="#E91E63"-->
+<!--        android:padding="10dp">-->
+
+
+<!--        <TextView-->
+<!--            android:id="@+id/bioTextView"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="10dp"-->
+<!--            android:padding="10dp"-->
+<!--            android:text=""-->
+<!--            android:textAlignment="gravity"-->
+<!--            android:textIsSelectable="true"-->
+<!--            android:textSize="25sp"-->
+<!--            android:textStyle="italic" />-->
+
+
+<!--    </ScrollView>-->
+
+<!--    <Button-->
+<!--        android:id="@+id/exitButton"-->
+<!--        android:layout_width="139dp"-->
+<!--        android:layout_height="60dp"-->
+<!--        android:layout_gravity="center"-->
+<!--        android:layout_margin="1dp"-->
+<!--        android:drawableEnd="@drawable/exit"-->
+<!--        android:text="@string/buttonName1"-->
+<!--        android:textSize="17sp"-->
+<!--        android:textStyle="bold"-->
+
+<!--        />-->
+
+    <ImageView
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_margin="10dp"
-        android:background="#E91E63"
-        android:padding="1dp"
-        android:paddingBottom="10dp"
-        android:text="@string/user_name"
-        android:textAlignment="center"
-        android:textAllCaps="true"
-        android:textColor="@color/black"
-        android:textIsSelectable="true"
-        android:textSize="35sp"
-        android:textStyle="bold"
-
-
-        />
-
-    <Button
-        android:id="@+id/loginButton"
-        android:layout_width="284dp"
-        android:layout_height="50dp"
-        android:textAllCaps="false"
-        android:layout_gravity="center"
-        android:layout_margin="10dp"
-        android:background="#121F6C"
-        android:backgroundTint="#0C1A6A"
-        android:drawableEnd="@drawable/login"
-        android:text="@string/buttonName"
-        android:textAlignment="gravity"
-        android:textSize="17sp"
-
-        android:textStyle="italic" />
-
-
-    <ScrollView
-        android:layout_width="match_parent"
-        android:layout_height="497dp"
-        android:layout_margin="10dp"
-        android:background="#E91E63"
-        android:padding="10dp">
-
-
-        <TextView
-            android:id="@+id/bioTextView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:padding="10dp"
-            android:text=""
-            android:textAlignment="gravity"
-            android:textIsSelectable="true"
-            android:textSize="25sp"
-            android:textStyle="italic" />
-
-
-    </ScrollView>
-
-    <Button
-        android:id="@+id/exitButton"
-        android:layout_width="139dp"
-        android:layout_height="60dp"
-        android:layout_gravity="center"
-        android:layout_margin="1dp"
-        android:drawableEnd="@drawable/exit"
-        android:text="@string/buttonName1"
-        android:textSize="17sp"
-        android:textStyle="bold"
-
+        android:src="@drawable/b"
         />
 
 
