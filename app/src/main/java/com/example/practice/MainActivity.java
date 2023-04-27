@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private Button login ;
     private Button exit;
     private TextView infoText;
-
+    private TextView infoTex2t;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
