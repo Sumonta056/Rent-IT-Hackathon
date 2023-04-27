@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
     private TextView nameText ;
     private Button login ;
     private Button exit;
+
+
+    
     private TextView infoText;
 
 
